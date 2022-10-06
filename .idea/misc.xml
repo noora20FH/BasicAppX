@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/00_Materi Kuliah/Sem V/BasicAppX/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/00_Materi Kuliah/Sem V/BasicAppX/app/src/main/res/drawable/cell_style.xml" value="0.121" />
+        <entry key="..\:/00_Materi Kuliah/Sem V/BasicAppX/app/src/main/res/drawable/header_style.xml" value="0.1" />
+        <entry key="..\:/00_Materi Kuliah/Sem V/BasicAppX/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>
